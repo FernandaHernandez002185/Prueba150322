@@ -1,0 +1,13 @@
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\bin\Debug\netcoreapp3.1\prueba1.exe
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\bin\Debug\netcoreapp3.1\prueba1.deps.json
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\bin\Debug\netcoreapp3.1\prueba1.runtimeconfig.json
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\bin\Debug\netcoreapp3.1\prueba1.runtimeconfig.dev.json
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\bin\Debug\netcoreapp3.1\prueba1.dll
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\bin\Debug\netcoreapp3.1\prueba1.pdb
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\obj\Debug\netcoreapp3.1\prueba1.csprojAssemblyReference.cache
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\obj\Debug\netcoreapp3.1\prueba1.AssemblyInfoInputs.cache
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\obj\Debug\netcoreapp3.1\prueba1.AssemblyInfo.cs
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\obj\Debug\netcoreapp3.1\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\obj\Debug\netcoreapp3.1\prueba1.dll
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\obj\Debug\netcoreapp3.1\prueba1.pdb
+C:\Users\marif\OneDrive\Desktop\ejemploF\Prueba150322\prueba1\obj\Debug\netcoreapp3.1\prueba1.genruntimeconfig.cache
